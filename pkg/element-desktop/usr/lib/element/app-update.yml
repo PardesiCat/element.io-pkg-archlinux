@@ -1,0 +1,4 @@
+owner: vector-im
+repo: element-desktop
+provider: github
+updaterCacheDirName: element-desktop-updater
